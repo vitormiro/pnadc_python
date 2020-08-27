@@ -1,5 +1,7 @@
 # Análise dos dados da PNAD Contínua com o Python
 
+Material auxiliar utilizado na disciplina de Estatística Aplicada do Programa de Pós-Graduação em Economia Rural (PPGER) da Universidade Federal do Ceará.
+
 ## A base de dados
 Neste Notebook vamos analisar dados da Pesquisa Nacional por Amostra de Domicílios Contínua (PNADC).
 A PNADC é uma pesquisa amostral levada à campo pelo 
